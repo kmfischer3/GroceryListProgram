@@ -1,0 +1,15 @@
+SALAD -- general; spinach/spring mix, oil & vinegar
+SALAD -- GREEK
+SALAD -- Greek style, i.e. no lettuce, just mixed veggies
+SALAD -- fruit
+SALAD -- tomatoes only
+RICKY'S GRANDMA'S PEPPERS
+COOKED VEGETABLES -- broccoli, corn, asparagus, cauliflower, etc.
+COOKED VEGETABLES -- baby carrots w/ butter and dill
+COOKED VEGETABLES -- steamed spinach
+RAW VEGETABLES -- carrots, cucumber, snap peas, etc. (+ ranch?)
+POTATO -- instant potatoes
+POTATO -- instant mashed potatoes
+POTATO -- frozen french fries
+POTATO -- sweet potato fries
+GARLIC BREAD
